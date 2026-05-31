@@ -24,10 +24,9 @@ connect flood sensors, temperature probes and
 any IoT device to a central hub.
 
 Born as the communication layer of 
-[Vergus Virgil](https://github.com/Vergus) 
-water monitoring system, JSP is now an 
-independent open protocol that anyone 
-can implement.
+Vergus Virgil water monitoring system, 
+JSP is now an independent open protocol 
+that anyone can implement.
 
 **One include. Everything included.**
 
@@ -329,7 +328,7 @@ JSP_UNIT_LITER_MIN  // "L/min"
 
 ### 🏠 Compatible with
 
-- **Vergus Virgil** — smart water monitor
+- **Vergus Virgil** — smart water monitor 
   with native JSP support
 - Any ESP32/ESP8266 running VirgilJSPReceiver
 - Home Assistant (via Vergus Virgil MQTT)
@@ -369,16 +368,14 @@ MIT — free for personal and commercial use.
 
 ### 🔗 Links
 
-- [Vergus Virgil](https://github.com/Vergus) 
-  — smart water monitor
+- Vergus Virgil — smart water monitor
 - [JSP Protocol Specification](#the-jsp-protocol)
 - [Arduino Library Manager](#installation)
 
 ---
 
 *Built with ❤️ by 
-[Vergus](https://github.com/Vergus) —
-an Italian plumber who codes.*
+Vergus — an Italian plumber who codes.*
 
 ---
 ---
@@ -395,10 +392,10 @@ temperatura e qualsiasi dispositivo IoT
 a un hub centrale.
 
 Nato come layer di comunicazione di 
-[Vergus Virgil](https://github.com/Vergus),
-sistema di monitoraggio idrico intelligente,
-JSP è ora un protocollo aperto indipendente 
-che chiunque può implementare.
+Vergus Virgil, sistema di monitoraggio 
+idrico intelligente, JSP è ora un 
+protocollo aperto indipendente che 
+chiunque può implementare.
 
 **Un solo include. Tutto incluso.**
 
@@ -586,5 +583,4 @@ MIT — libero uso personale e commerciale.
 ---
 
 *Costruito con ❤️ da 
-[Vergus](https://github.com/Vergus) —
-un idraulico italiano che programma.*
+Vergus — un idraulico italiano che programma.*
