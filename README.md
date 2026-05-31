@@ -3,7 +3,7 @@
 **Virgil JSON Sensor Protocol** — Open sensor 
 protocol library for ESP32 and ESP8266.
 
-Connect any sensor to Vergus Virgil
+Connect any sensor to Virgil
 smart water monitor — or build your own 
 JSP-compatible hub.
 
